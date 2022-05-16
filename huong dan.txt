@@ -1,0 +1,6 @@
+cài python
+
+cài thư viện
+	requests
+	pandas
+	openpyxl
